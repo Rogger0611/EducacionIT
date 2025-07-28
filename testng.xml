@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="EducationIT.EduIT_76635.PracticaM4"/>
+      <class name="EducationIT.EduIT_76635.AppTest"/>
+      <class name="EducationIT.EduIT_76635.PracticaM1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
